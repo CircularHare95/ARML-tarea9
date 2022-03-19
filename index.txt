@@ -1,0 +1,47 @@
+<html>
+<title>TAREA 8</title>
+<div id="icecream">UNIVERSIDADES</div>
+<style type="text/css">
+#icecream{background-color:#A79AFF;font-family:Book Antiqua;color:black;font-size:28pt;float:left;height:108px;width:100%;border-width:2px;border-style:soft;}
+#Rosecake{background-color:#FFC9DE;font-family:Courier new;color:white;font-size:16pt;float:left;height:450px;width:10%;padding-left:1%;border-width:2px;border-style:solid;border-color:white;}
+#Orangecake{background-color:#FFCBC1;font-family:Comic Sans MS;color:white;font-size:10pt;text-align:center;float:right;width:88%;height:114px;padding-top:23px;border-style:solid;border-width:2px 3px 2px 3px;border-color:white;}
+#Yellowcake{background-color:#FDFD96;font-family:Comic Sans MS;color:white;font-size:10pt;text-align:center;float:right;width:99.8%;height:114px;padding-top:23px;border-style:solid;border-width:2px 2px 2px 3px;border-color:white;}
+#Bluecake{background-color:#94d0ed;font-family:Comic Sans MS;color:white;font-size:10pt;text-align:center;float:right;width:99.7%;height:114px;padding-top:23px;border-style:solid;border-width:2px 2px 2px 3px;border-color:white;}
+</style>
+
+<div id="Rosecake">
+<ol type="1">
+<pre><li><a href="https://www.itmerida.mx/">ITM</a></li>
+
+
+
+<li><a href="https://uady.mx/#/home">UADY</a></li>
+
+
+
+<li><a href="https://www.utmerida.edu.mx/">UTM</a></li>
+
+</div></ol></pre>
+<body bgcolor=#cfffca>
+
+<pre><div id="Orangecake">El Instituto Tecnológico de Mérida, institución de educación superior, establece el compromiso 
+de implementar todos sus procesos orientados hacia el cumplimiento de los requisitos y la satisfacción de sus clientes, 
+así como el respeto y preservación del medio ambiente, cumpliendo con los requisitos legales aplicables y de mejora 
+continua, conforme a las normas.
+
+
+
+<div id="Yellowcake">La Universidad Autónoma de Yucatán es una institución pública de educación media superior y 
+superior que promueve oportunidades de aprendizaje para todas y todos, a través de una educación humanista, 
+pertinente y de calidad; contribuye al desarrollo de la ciencia, las humanidades, la tecnología y la innovación; 
+a la atención de problemáticas locales, regionales, nacionales y mundiales y a mejorar el nivel de bienestar de 
+la sociedad yucateca.
+
+
+<div id="Bluecake">Somos una institución de educación superior que surge como respuesta para impulsar y 
+fortalecer las tendencias previsibles del futuro, donde la comunidad universitaria se forma y trabaja en 
+los avances científicos y tecnológicos mundiales que ayudan a fortalecer la cooperación empresarial y la educación, 
+formando profesionales altamente especializados.</div>
+</pre>
+</body>
+</html>
